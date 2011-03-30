@@ -22,3 +22,8 @@ or
 3. Timing should encompass only in-memory operations (not IO)
 4. Data set should be what a specific service used by Benchmark Solutions (where Paul and I work) in real life. See `data.json`.
 5. @jvshahid will be the arbiter of whether the implementations violate the spirit of "real world".
+
+
+### The Loser
+
+The loser must wear @flavorjones's daughter's fairy wings during @pauldix's RailsConf 2011 presentation.
