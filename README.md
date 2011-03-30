@@ -26,4 +26,4 @@ or
 
 ### The Loser
 
-The loser must wear @flavorjones's daughter's fairy wings during @pauldix's RailsConf 2011 presentation.
+The loser must wear @flavorjones's daughter's fairy wings **on stage** during @pauldix's RailsConf 2011 presentation.
