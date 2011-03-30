@@ -1,0 +1,2265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <messages type="array">
+    <message>
+      <id>28027</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">4.63245406604264</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46100822704123</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">4.6572065194051</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">8000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>KFT.GX</TICKER>
+        <MID-SPREAD type="float">117.144583900141</MID-SPREAD>
+        <ASK-SPREAD type="float">114.669853204733</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501307000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">34036002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">105.517</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">105.51871001349</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501307000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">21813</SEQ-NUM>
+        <TRADE-YIELD type="float">4.607937</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">105.334815409451</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">71.4038125276454</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">105.151268362536</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">4.60770675908857</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>50075NBA1</CUSIP>
+        <AS-OF type="integer">1301501220000</AS-OF>
+        <BID-SPREAD type="float">119.619829236386</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>660142</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">4.93664236272929</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46474100263314</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">4.96293418312164</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">10000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>GE.HQT</TICKER>
+        <MID-SPREAD type="float">147.190136009615</MID-SPREAD>
+        <ASK-SPREAD type="float">144.561683265011</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301502074000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">33216001.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">101.801</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">103.008316878762</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502074000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">23045</SEQ-NUM>
+        <TRADE-YIELD type="float">5.064671</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">102.801447240201</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">142.483654490666</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">102.595025166045</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">4.91035783528325</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>369622SM8</CUSIP>
+        <AS-OF type="integer">1301502074000</AS-OF>
+        <BID-SPREAD type="float">149.81931804885</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>348024</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">5.97840361833415</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46567440629804</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.02584766868123</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">1300000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>C.AGT</TICKER>
+        <MID-SPREAD type="float">251.272921203611</MID-SPREAD>
+        <ASK-SPREAD type="float">246.530428684459</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501792000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">27472003.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">102.947</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">96.0458843796902</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501792000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22562</SEQ-NUM>
+        <TRADE-YIELD type="float">4.975953</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">95.7181078979511</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">143.630754946874</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">95.3915646388811</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">5.93097869314263</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>172967FF3</CUSIP>
+        <AS-OF type="integer">1301501791000</AS-OF>
+        <BID-SPREAD type="float">256.017326238319</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>27488</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">1.48666824398275</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.77107592974448</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.53587734588834</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">350000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>GE.HMY</TICKER>
+        <MID-SPREAD type="float">71.5592314238272</MID-SPREAD>
+        <ASK-SPREAD type="float">66.6395254057376</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301502286000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">25837004.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">102.343</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">102.359827524342</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502286000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">23383</SEQ-NUM>
+        <TRADE-YIELD type="float">1.447032</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">102.27328058685</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">55.3581688735937</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">102.186807424435</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">1.43747118380186</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>36962G4H4</CUSIP>
+        <AS-OF type="integer">1301502264000</AS-OF>
+        <BID-SPREAD type="float">76.4801416143856</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>6716</id>
+      <values>
+        <TRADE-SALES-DAYS-C type="integer">0</TRADE-SALES-DAYS-C>
+        <SUMMARY-HIGH-YIELD type="float">6.400978</SUMMARY-HIGH-YIELD>
+        <ORIGINAL-SEQ-NUM type="integer">460</ORIGINAL-SEQ-NUM>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">6.44296380566626</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46007524283772</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.48646490290835</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <WITH-COMMISSION-C type="integer">0</WITH-COMMISSION-C>
+        <TRADE-SIZE type="float">1000000.0</TRADE-SIZE>
+        <TRADE-SIZE-C type="float">2000000.0</TRADE-SIZE-C>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <TRADE-SPECIAL-PRICE-C type="integer">0</TRADE-SPECIAL-PRICE-C>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <IS-ACTUAL-SIZE-C type="integer">1</IS-ACTUAL-SIZE-C>
+        <TICKER>VALE.AB</TICKER>
+        <MID-SPREAD type="float">298.288856282855</MID-SPREAD>
+        <ASK-SPREAD type="float">293.942879622113</ASK-SPREAD>
+        <TRADE-YIELD-C type="float">6.430992</TRADE-YIELD-C>
+        <TRADE-INDICATOR-C type="integer">2</TRADE-INDICATOR-C>
+        <TRADE-CANCEL-TYPE type="integer">2</TRADE-CANCEL-TYPE>
+        <RECEIVED-TIME type="integer">1301498933000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">23333002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">121.583</TRADE-PRICE>
+        <SUMMARY-LAST-PRICE type="float">121.198</SUMMARY-LAST-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">122.017392267326</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1-C type="integer">7</TRADE-SALE-CONDITION-1-C>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <SUMMARY-LOW-PRICE type="float">119.698</SUMMARY-LOW-PRICE>
+        <SUMMARY-HIGH-PRICE type="float">121.997</SUMMARY-HIGH-PRICE>
+        <REPORTING-PARTY-SIDE-C type="integer">4</REPORTING-PARTY-SIDE-C>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2-C type="integer">0</TRADE-SALE-CONDITION-2-C>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301498933000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">17741</SEQ-NUM>
+        <TRADE-YIELD type="float">6.430992</TRADE-YIELD>
+        <TRADE-PRICE-C type="float">12158.3</TRADE-PRICE-C>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <SUMMARY-LOW-YIELD type="float">6.569599</SUMMARY-LOW-YIELD>
+        <SUMMARY-LAST-YIELD type="float">6.45904</SUMMARY-LAST-YIELD>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">121.418441291546</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">355.218335439993</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">120.82330292959</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">6.39950403905885</ASK-YIELD>
+        <TICK-TYPE>TRD_CXN</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>91911TAE3</CUSIP>
+        <AS-OF-C type="integer">1301486868000</AS-OF-C>
+        <AS-OF type="integer">1301486868000</AS-OF>
+        <BID-SPREAD type="float">302.638966007064</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>28015</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">6.05578106053821</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46660789389871</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.08461309309636</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>KFT.GZ</TICKER>
+        <MID-SPREAD type="float">258.91731666395</MID-SPREAD>
+        <ASK-SPREAD type="float">256.031800583229</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301499758000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">23175000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">106.622</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">106.423586591997</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301499758000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">19135</SEQ-NUM>
+        <TRADE-YIELD type="float">6.013044</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">106.012967501472</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">87.3662294385432</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">105.605111184837</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">6.026925899731</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>50075NAZ7</CUSIP>
+        <AS-OF type="integer">1301499697000</AS-OF>
+        <BID-SPREAD type="float">261.800519919765</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>655119</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">4.37482942204234</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46567440629804</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">4.40147474396148</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>BUD.IP</TICKER>
+        <MID-SPREAD type="float">90.91550157443</MID-SPREAD>
+        <ASK-SPREAD type="float">88.2512326317342</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501907000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">20171003.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">104.4663</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">104.823855049266</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501907000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22771</SEQ-NUM>
+        <TRADE-YIELD type="float">4.395239</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">104.621213137644</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">342.706241491088</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">104.419019864176</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">4.34818673261538</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>03523TAV0</CUSIP>
+        <AS-OF type="integer">1301501876000</AS-OF>
+        <BID-SPREAD type="float">93.5800337663437</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>3399</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">6.37903535173592</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46100822704123</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.41946189886438</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>VALE.AH</TICKER>
+        <MID-SPREAD type="float">291.802712469469</MID-SPREAD>
+        <ASK-SPREAD type="float">287.76347610073</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301499029000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">20100003.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">105.711</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">107.032843822903</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">7</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301499029000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">17893</SEQ-NUM>
+        <TRADE-YIELD type="float">6.435034</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">106.475807273889</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">354.074820345264</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">105.922812412072</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">6.33864298804853</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>91911TAK9</CUSIP>
+        <AS-OF type="integer">1301497920000</AS-OF>
+        <BID-SPREAD type="float">295.845367182315</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>18059</id>
+      <values>
+        <TRADE-SALES-DAYS-C type="integer">0</TRADE-SALES-DAYS-C>
+        <SUMMARY-HIGH-YIELD type="float">0.0</SUMMARY-HIGH-YIELD>
+        <ORIGINAL-SEQ-NUM type="integer">23552</ORIGINAL-SEQ-NUM>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">0.936364028392048</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">1.22909445268802</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.0100600200105</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>3_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <WITH-COMMISSION-C type="integer">0</WITH-COMMISSION-C>
+        <TRADE-SIZE type="float">1500000.0</TRADE-SIZE>
+        <TRADE-SIZE-C type="float">1500000.0</TRADE-SIZE-C>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <TRADE-SPECIAL-PRICE-C type="integer">0</TRADE-SPECIAL-PRICE-C>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <IS-ACTUAL-SIZE-C type="integer">1</IS-ACTUAL-SIZE-C>
+        <TICKER>C.HFC</TICKER>
+        <MID-SPREAD type="float">-29.2730424295973</MID-SPREAD>
+        <ASK-SPREAD type="float">-36.6372840114266</ASK-SPREAD>
+        <TRADE-YIELD-C type="float">0.0</TRADE-YIELD-C>
+        <TRADE-INDICATOR-C type="integer">2</TRADE-INDICATOR-C>
+        <TRADE-CANCEL-TYPE type="integer">2</TRADE-CANCEL-TYPE>
+        <RECEIVED-TIME type="integer">1301502450000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">19743002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">99.807</TRADE-PRICE>
+        <SUMMARY-LAST-PRICE type="float">97.807</SUMMARY-LAST-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">97.6863753582382</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1-C type="integer">1</TRADE-SALE-CONDITION-1-C>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <SUMMARY-LOW-PRICE type="float">97.68</SUMMARY-LOW-PRICE>
+        <SUMMARY-HIGH-PRICE type="float">97.923</SUMMARY-HIGH-PRICE>
+        <REPORTING-PARTY-SIDE-C type="integer">2</REPORTING-PARTY-SIDE-C>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2-C type="integer">0</TRADE-SALE-CONDITION-2-C>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502450000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">23596</SEQ-NUM>
+        <TRADE-YIELD type="float">0.0</TRADE-YIELD>
+        <TRADE-PRICE-C type="float">9780.7</TRADE-PRICE-C>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <SUMMARY-LOW-YIELD type="float">0.0</SUMMARY-LOW-YIELD>
+        <SUMMARY-LAST-YIELD type="float">0.0</SUMMARY-LAST-YIELD>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">97.4767851771369</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">57.5549749646049</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">97.2676464969132</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QH6</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">0.862721612573755</ASK-YIELD>
+        <TICK-TYPE>TRD_CXN</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>172967EA5</CUSIP>
+        <AS-OF-C type="integer">1301502427000</AS-OF-C>
+        <AS-OF type="integer">1301502427000</AS-OF>
+        <BID-SPREAD type="float">-21.9034432677524</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>655340</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">4.80638407991228</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46287444705263</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">4.83331194106236</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">10000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>GE.HPH</TICKER>
+        <MID-SPREAD type="float">134.350963285965</MID-SPREAD>
+        <ASK-SPREAD type="float">131.658798947618</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501709000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">19069001.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">97.146</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">96.950855282429</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501709000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22419</SEQ-NUM>
+        <TRADE-YIELD type="float">4.753108</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">96.7519897275293</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">140.065152238056</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">96.5535638899966</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">4.77946243652882</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>36962G4R2</CUSIP>
+        <AS-OF type="integer">1301501707000</AS-OF>
+        <BID-SPREAD type="float">137.043749400972</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>19719</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">3.94624549280395</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">2.18969873264276</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">3.97359339664472</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>5_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>KFT.GQ</TICKER>
+        <MID-SPREAD type="float">175.654676016119</MID-SPREAD>
+        <ASK-SPREAD type="float">172.920461140301</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301498682000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">18407003.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">114.324</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">114.385049428789</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301498682000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">17293</SEQ-NUM>
+        <TRADE-YIELD type="float">3.929009</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">114.219970231278</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">62.8372620154068</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">114.055141807719</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QJ2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">3.91890334404577</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>50075NAS3</CUSIP>
+        <AS-OF type="integer">1301498363000</AS-OF>
+        <BID-SPREAD type="float">178.389466400196</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>17187</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">6.35734307530235</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46474100263314</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.39995128243115</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">3500000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>VALE.AF</TICKER>
+        <MID-SPREAD type="float">289.260207266921</MID-SPREAD>
+        <ASK-SPREAD type="float">285.003029205985</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301500781000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">18255000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">105.987</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">107.058508201882</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">3</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301500781000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">20912</SEQ-NUM>
+        <TRADE-YIELD type="float">6.396035</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">106.494947566603</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">354.742251413229</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">105.935392596749</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">6.31477129469299</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>91911TAH6</CUSIP>
+        <AS-OF type="integer">1301500723000</AS-OF>
+        <BID-SPREAD type="float">293.521027979801</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>22464</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">3.43170169260117</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">2.19138657321682</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">3.48446449243138</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>5_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">645000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>MS.GIM</TICKER>
+        <MID-SPREAD type="float">124.031511938436</MID-SPREAD>
+        <ASK-SPREAD type="float">118.756580048375</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501995000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">17932000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">108.974</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">109.878461779338</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">3</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501995000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22926</SEQ-NUM>
+        <TRADE-YIELD type="float">3.611091</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">109.668321091458</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">112.199228377644</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">109.458607250986</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QJ2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">3.37895237370057</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>61747YCE3</CUSIP>
+        <AS-OF type="integer">1301501992000</AS-OF>
+        <BID-SPREAD type="float">129.307791921457</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>348107</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">5.75890883934342</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46007524283772</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">5.82675244691888</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>MET.JE</TICKER>
+        <MID-SPREAD type="float">229.88335965057</MID-SPREAD>
+        <ASK-SPREAD type="float">223.059949210283</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301498959000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">16012002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">100.666</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">102.622976536937</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301498959000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">17787</SEQ-NUM>
+        <TRADE-YIELD type="float">5.82701</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">101.636327686714</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">210.181298253624</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">100.669643011186</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">5.69067473494055</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>59156RAY4</CUSIP>
+        <AS-OF type="integer">1301498956000</AS-OF>
+        <BID-SPREAD type="float">236.667720408117</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>346630</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">5.14619080689115</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46100822704123</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">5.17690574688253</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">50000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>GS.ICC</TICKER>
+        <MID-SPREAD type="float">168.518257984991</MID-SPREAD>
+        <ASK-SPREAD type="float">165.447604271506</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301502321000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">15487002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">106.17</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">106.416127960134</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502321000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">23428</SEQ-NUM>
+        <TRADE-YIELD type="float">5.148141</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">106.184681125926</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">134.036190201246</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">105.953786725225</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">5.11548426975629</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>38141EA66</CUSIP>
+        <AS-OF type="integer">1301502269000</AS-OF>
+        <BID-SPREAD type="float">171.589751984129</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>656135</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">4.15550077789755</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.47221058296647</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">4.16991393588341</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">2500000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>WMT.IP</TICKER>
+        <MID-SPREAD type="float">68.3290194931079</MID-SPREAD>
+        <ASK-SPREAD type="float">66.8877367362381</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301495791000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">15350002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">93.41</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">93.023257326942</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">3</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301495791000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">12720</SEQ-NUM>
+        <TRADE-YIELD type="float">4.089033</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">92.9151548961248</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">100.57113852799</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">92.8071956500017</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">4.14108795032885</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>931142CZ4</CUSIP>
+        <AS-OF type="integer">1301495726000</AS-OF>
+        <BID-SPREAD type="float">69.7703352916938</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>2508</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">2.93115176355832</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">1.23601902560036</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">3.00053638154945</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>3_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">3</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>C.GOS</TICKER>
+        <MID-SPREAD type="float">169.513273795796</MID-SPREAD>
+        <ASK-SPREAD type="float">162.577199109766</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301499710000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">15313003.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">107.845</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">108.798440138895</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301499710000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">19057</SEQ-NUM>
+        <TRADE-YIELD type="float">3.135008</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">108.555438655294</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">86.0152145281636</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">108.313004887292</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QH6</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">2.86179101669802</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>172967EZ0</CUSIP>
+        <AS-OF type="integer">1301499604000</AS-OF>
+        <BID-SPREAD type="float">176.451735594909</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>24715</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">2.64386401976887</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">1.24017453840477</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">2.68589858037399</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>3_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">25000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">4</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>APC.HG</TICKER>
+        <MID-SPREAD type="float">140.36894813641</MID-SPREAD>
+        <ASK-SPREAD type="float">136.166403791167</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301500589000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">15168000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">114.414</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">114.16022704005</ASK-PRICE>
+        <WITH-COMMISSION type="integer">1</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301500589000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">20582</SEQ-NUM>
+        <TRADE-YIELD type="float">2.518987</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">114.031770246876</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">116.072248982714</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">113.903463911534</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QH6</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">2.60183857631644</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>032511BD8</CUSIP>
+        <AS-OF type="integer">1301500585000</AS-OF>
+        <BID-SPREAD type="float">144.572404196922</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>4723</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">1.26173632900147</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.397742326825812</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.31687596139873</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>EDSF</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">4194000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>HBC.INT</TICKER>
+        <MID-SPREAD type="float">86.399400217566</MID-SPREAD>
+        <ASK-SPREAD type="float">80.8869474740225</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301502455000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">15029000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">103.11</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">102.724622026785</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">3</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502455000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">23606</SEQ-NUM>
+        <TRADE-YIELD type="float">0.585685</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">102.694770071223</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">94.051992565811</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">102.664926775577</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>EDSF</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">1.20661180156604</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>441812JW5</CUSIP>
+        <AS-OF type="integer">1301502252000</AS-OF>
+        <BID-SPREAD type="float">91.9133634572915</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>348183</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">5.8614518771903</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.47594738956582</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">5.89639758169766</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>HES.GI</TICKER>
+        <MID-SPREAD type="float">238.550448762447</MID-SPREAD>
+        <ASK-SPREAD type="float">235.052174528334</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301491022000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">15000002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">95.394</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">96.8045495406331</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301491022000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">7491</SEQ-NUM>
+        <TRADE-YIELD type="float">5.93035</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">96.3259849086571</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">122.051543076366</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">95.8515367097638</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">5.82646913484916</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>42809HAD9</CUSIP>
+        <AS-OF type="integer">1301490900000</AS-OF>
+        <BID-SPREAD type="float">242.045019213184</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>4500</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">6.15189227282016</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46194129510804</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.43332811227385</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">2000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">1</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>TWX.AA</TICKER>
+        <MID-SPREAD type="float">268.995097771212</MID-SPREAD>
+        <ASK-SPREAD type="float">240.842343907541</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501277000</RECEIVED-TIME>
+        <TRADE-PRICE type="float">116.022</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">120.506588770799</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501277000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">21753</SEQ-NUM>
+        <TRADE-YIELD type="float">6.215479</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">116.828034866531</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">114.701350950971</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">113.309330495923</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">5.87036473418345</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>00184AAC9</CUSIP>
+        <AS-OF type="integer">1301412060000</AS-OF>
+        <BID-SPREAD type="float">297.13868171658</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>18811</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">1.09687247777466</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.77107592974448</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.15992769727616</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>XRX.HP</TICKER>
+        <MID-SPREAD type="float">32.5796548030183</MID-SPREAD>
+        <ASK-SPREAD type="float">26.2761118589859</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301502205000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">13570000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">104.935</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">104.932359731542</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502205000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">23257</SEQ-NUM>
+        <TRADE-YIELD type="float">1.031532</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">104.86019318778</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">86.4756978126346</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">104.788076548367</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">1.03383704833434</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>984121BS1</CUSIP>
+        <AS-OF type="integer">1301501916000</AS-OF>
+        <BID-SPREAD type="float">38.8851767531677</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>25034</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">6.07875820950869</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46474100263314</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.10588254803197</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">500000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>GE.HHG</TICKER>
+        <MID-SPREAD type="float">261.401720687555</MID-SPREAD>
+        <ASK-SPREAD type="float">258.6893374687</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501964000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">13561002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">111.717</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">110.994073128521</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501964000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22870</SEQ-NUM>
+        <TRADE-YIELD type="float">6.001985</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">110.602150343856</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">162.299699584181</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">110.21233596873</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">6.05163437732013</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>36962G4B7</CUSIP>
+        <AS-OF type="integer">1301501881000</AS-OF>
+        <BID-SPREAD type="float">264.114154539883</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>20984</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">1.27072208494468</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.77107592974448</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.29668756793753</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">50000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>T.KE</TICKER>
+        <MID-SPREAD type="float">49.9646155200204</MID-SPREAD>
+        <ASK-SPREAD type="float">47.3683948554303</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501257000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">13410000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">106.527</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">106.502923250363</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501257000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">21713</SEQ-NUM>
+        <TRADE-YIELD type="float">1.231609</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">106.455410550775</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">130.305172975927</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">106.40791950601</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">1.24475987829878</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>00206RAF9</CUSIP>
+        <AS-OF type="integer">1301501230000</AS-OF>
+        <BID-SPREAD type="float">52.5611638193049</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>5402</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">1.15274926062307</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.77107592974448</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.19583498952136</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>PEG.IB</TICKER>
+        <MID-SPREAD type="float">38.1673330878594</MID-SPREAD>
+        <ASK-SPREAD type="float">33.8596840829602</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301499069000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">12810002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">106.7565</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">106.701212582878</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301499069000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">17948</SEQ-NUM>
+        <TRADE-YIELD type="float">1.063802</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">106.649330649678</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">58.2743345785145</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">106.597474128425</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">1.10967277057408</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>69362BAM4</CUSIP>
+        <AS-OF type="integer">1301498769000</AS-OF>
+        <BID-SPREAD type="float">42.4759059776883</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>194731</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">3.43885190207064</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">2.19476270510345</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">3.50684550894707</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>5_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">10000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>C.HVG</TICKER>
+        <MID-SPREAD type="float">124.408919696719</MID-SPREAD>
+        <ASK-SPREAD type="float">117.611860753595</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301500617000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">12620002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">105.097</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">105.266056172998</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301500617000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">20626</SEQ-NUM>
+        <TRADE-YIELD type="float">3.413834</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">104.998678086366</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">95.6434154510313</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">104.732011947744</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QJ2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">3.3708813126394</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>172967FD8</CUSIP>
+        <AS-OF type="integer">1301500605000</AS-OF>
+        <BID-SPREAD type="float">131.208280384362</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>659121</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">5.65076081376009</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46100822704123</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">5.69169787319032</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">10000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>MS.HYX</TICKER>
+        <MID-SPREAD type="float">218.975258671886</MID-SPREAD>
+        <ASK-SPREAD type="float">214.882716662303</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501515000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">12560000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">103.693</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">101.03699690055</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501515000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22089</SEQ-NUM>
+        <TRADE-YIELD type="float">5.262012</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">100.730015854685</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">156.572740150388</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">100.424095341792</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">5.60983539366426</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>61747WAF6</CUSIP>
+        <AS-OF type="integer">1301501460000</AS-OF>
+        <BID-SPREAD type="float">223.068964614908</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>680</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">2.65618569660457</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">1.23186408962163</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">2.72423933596369</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>3_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>BAC.IBT</TICKER>
+        <MID-SPREAD type="float">142.432160698295</MID-SPREAD>
+        <ASK-SPREAD type="float">135.629140411986</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501266000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">12325002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">112.998</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">114.228460263603</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501266000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">21733</SEQ-NUM>
+        <TRADE-YIELD type="float">2.972122</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">114.009257594498</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">71.4805785016232</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">113.790495026107</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QH6</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">2.58815549374149</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>06051GDY2</CUSIP>
+        <AS-OF type="integer">1301501261000</AS-OF>
+        <BID-SPREAD type="float">149.237524634206</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>1330</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">7.52152552056901</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.47034268394926</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">7.55442241700235</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">250000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>TWCA.GO</TICKER>
+        <MID-SPREAD type="float">405.118283661975</MID-SPREAD>
+        <ASK-SPREAD type="float">401.823849240623</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301496937000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">12150002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">104.584</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">91.363212154585</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301496937000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">14652</SEQ-NUM>
+        <TRADE-YIELD type="float">6.396015</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">91.0065126650306</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">118.664905603667</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">90.6525628573969</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">7.48858117635549</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>88732JAU2</CUSIP>
+        <AS-OF type="integer">1301496931000</AS-OF>
+        <BID-SPREAD type="float">408.407973305309</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>22279</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">1.6079321779277</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.775199195537283</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.68279384184794</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">50000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>C.HFL</TICKER>
+        <MID-SPREAD type="float">83.2732982390418</MID-SPREAD>
+        <ASK-SPREAD type="float">75.7899416210206</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301499360000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">12072002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">107.058</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">107.858186040431</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301499360000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">18461</SEQ-NUM>
+        <TRADE-YIELD type="float">1.919797</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">107.702738897689</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">49.649849131583</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">107.547520149849</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">1.53309861174749</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>172967EQ0</CUSIP>
+        <AS-OF type="integer">1301499329000</AS-OF>
+        <BID-SPREAD type="float">90.759464631066</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>24775</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">0.115300241822511</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.422924891935406</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">0.178123009943151</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>EDSF</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>WFC.GEV</TICKER>
+        <MID-SPREAD type="float">-30.7624650112895</MID-SPREAD>
+        <ASK-SPREAD type="float">-37.0408147667039</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301497416000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">12000002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">100.6606</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">100.571450557934</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301497416000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">15391</SEQ-NUM>
+        <TRADE-YIELD type="float">0.0</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">100.527950679624</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">5.67243112786582</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">100.484469638312</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>EDSF</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">0.0525167442683667</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>949744AB2</CUSIP>
+        <AS-OF type="integer">1301497379000</AS-OF>
+        <BID-SPREAD type="float">-24.4801881992255</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>1949</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">2.85252195503164</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">1.22909445268802</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">2.92565445115147</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>3_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">2000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>C.GOR</TICKER>
+        <MID-SPREAD type="float">162.342750234362</MID-SPREAD>
+        <ASK-SPREAD type="float">155.032224090351</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301502371000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">11380002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">110.615</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">111.439433289914</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502371000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">23484</SEQ-NUM>
+        <TRADE-YIELD type="float">3.023052</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">111.191274720883</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">75.8628241636876</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">110.94369304504</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QH6</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">2.77941669359153</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>172967EY3</CUSIP>
+        <AS-OF type="integer">1301502351000</AS-OF>
+        <BID-SPREAD type="float">169.655999846345</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>11834</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">5.73790799713089</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.45914234248302</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">5.80632678399893</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">1245000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>MET.HL</TICKER>
+        <MID-SPREAD type="float">227.876565464787</MID-SPREAD>
+        <ASK-SPREAD type="float">221.006235982221</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301498429000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">11320002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">99.509</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">100.393240551625</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301498429000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">16889</SEQ-NUM>
+        <TRADE-YIELD type="float">5.737041</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">99.4977717295799</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">209.561063151697</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">98.6174427914146</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">5.66920470230523</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>59156RAM0</CUSIP>
+        <AS-OF type="integer">1301498425000</AS-OF>
+        <BID-SPREAD type="float">234.718444151591</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>197050</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">6.33664272416014</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46100822704123</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.39662971769516</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">10000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>WU.GK</TICKER>
+        <MID-SPREAD type="float">287.563449711891</MID-SPREAD>
+        <ASK-SPREAD type="float">281.569465454036</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501487000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">11076001.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">101.55339</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">98.9671368133826</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501487000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22051</SEQ-NUM>
+        <TRADE-YIELD type="float">6.084788</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">98.1802993942023</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">159.653754531694</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">97.4025582993663</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">6.27670288158159</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>959802AM1</CUSIP>
+        <AS-OF type="integer">1301501487000</AS-OF>
+        <BID-SPREAD type="float">293.562149065393</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>5517</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">1.34376172038179</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.77107592974448</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.3957520077637</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>GE.ADF</TICKER>
+        <MID-SPREAD type="float">57.2685790637313</MID-SPREAD>
+        <ASK-SPREAD type="float">52.0708685694419</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501983000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10771002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">106.4869</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">106.665258482513</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501983000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22899</SEQ-NUM>
+        <TRADE-YIELD type="float">1.386956</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">106.567800842992</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">164.185230293364</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">106.470434148249</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">1.2917846154389</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>369604AY9</CUSIP>
+        <AS-OF type="integer">1301501983000</AS-OF>
+        <BID-SPREAD type="float">62.4676078019219</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>6824</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">5.61175085851509</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46847512096539</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.03236095694882</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">100000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>COP.GR</TICKER>
+        <MID-SPREAD type="float">214.32757375497</MID-SPREAD>
+        <ASK-SPREAD type="float">172.316818878274</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301500410000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10689001.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">113.408</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">119.137568767082</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301500410000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">20280</SEQ-NUM>
+        <TRADE-YIELD type="float">5.547899</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">112.424736912366</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">65.4030297471899</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">106.257881434802</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">5.19164330974813</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>20825CAQ7</CUSIP>
+        <AS-OF type="integer">1301500394000</AS-OF>
+        <BID-SPREAD type="float">256.388583598343</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>655200</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">2.79531260535748</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">2.18885486868694</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">2.82411463789721</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>5_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">1000000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>DELL.GM</TICKER>
+        <MID-SPREAD type="float">60.6457736670541</MID-SPREAD>
+        <ASK-SPREAD type="float">57.765979104136</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301501681000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10666000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">97.941</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">98.065218765663</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301501681000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22371</SEQ-NUM>
+        <TRADE-YIELD type="float">2.796838</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">97.9472435838993</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">98.3978413471627</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">97.8294143633885</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QJ2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">2.7665146597283</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>24702RAL5</CUSIP>
+        <AS-OF type="integer">1301501381000</AS-OF>
+        <BID-SPREAD type="float">63.5259769210265</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>79</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">5.11760222768373</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46847512096539</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">5.17099046883071</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">667000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>HAL.GT</TICKER>
+        <MID-SPREAD type="float">164.912710671834</MID-SPREAD>
+        <ASK-SPREAD type="float">159.574266428292</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301500360000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10624001.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">114.749</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">107.383996955028</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301500360000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">20203</SEQ-NUM>
+        <TRADE-YIELD type="float">4.068831</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">107.005477325289</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">74.0509800650841</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">106.628554492829</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">5.06421778524831</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>406216AX9</CUSIP>
+        <AS-OF type="integer">1301500082000</AS-OF>
+        <BID-SPREAD type="float">170.251534786532</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>20401</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">1.24788026628659</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.779322869875205</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.32574893161915</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">20000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>C.HFH</TICKER>
+        <MID-SPREAD type="float">46.8557396411385</MID-SPREAD>
+        <ASK-SPREAD type="float">39.0719103383959</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301499986000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10438002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">105.621</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">106.268728407802</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301499986000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">19587</SEQ-NUM>
+        <TRADE-YIELD type="float">1.581231</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">106.145702951939</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">37.3268463774598</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">106.022821482532</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">1.17004197325916</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>172967EL1</CUSIP>
+        <AS-OF type="integer">1301499971000</AS-OF>
+        <BID-SPREAD type="float">54.6426061743949</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>4911</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">0.973988232807718</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.76901445002988</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.02463840996209</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>GE.WB</TICKER>
+        <MID-SPREAD type="float">20.4973782777838</MID-SPREAD>
+        <ASK-SPREAD type="float">15.4336362263211</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301502249000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10351002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">104.671</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">104.249553149788</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502249000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">23316</SEQ-NUM>
+        <TRADE-YIELD type="float">0.450672</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">104.204563686028</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">22.1793114862158</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">104.159593675138</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">0.923350812293091</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>36962GXS8</CUSIP>
+        <AS-OF type="integer">1301501917000</AS-OF>
+        <BID-SPREAD type="float">25.5623959932211</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>22420</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">1.54436420589905</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.775199195537283</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">1.59560485914637</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>JPM.KPG</TICKER>
+        <MID-SPREAD type="float">76.9165010361764</MID-SPREAD>
+        <ASK-SPREAD type="float">71.7937524595498</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301499823000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10204000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">106.3</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">106.628909750058</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">2</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301499823000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">19246</SEQ-NUM>
+        <TRADE-YIELD type="float">1.664072</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">106.520333471361</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">23.284765905121</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">106.411869635502</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">1.49313672013278</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>46625HHB9</CUSIP>
+        <AS-OF type="integer">1301499780000</AS-OF>
+        <BID-SPREAD type="float">82.0405663609084</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>1760</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">4.13028526652407</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">2.19982803016086</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">4.18218703464965</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>5_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">20000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>BAC.ICU</TICKER>
+        <MID-SPREAD type="float">193.045723636321</MID-SPREAD>
+        <ASK-SPREAD type="float">187.857083220947</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301497106000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10115001.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">111.122</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">111.47891727815</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301497106000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">14897</SEQ-NUM>
+        <TRADE-YIELD type="float">4.149039</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">111.216621181168</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">132.056258588259</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">110.954985495641</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QJ2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">4.07839886237032</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>06051GEA3</CUSIP>
+        <AS-OF type="integer">1301497099000</AS-OF>
+        <BID-SPREAD type="float">198.235900448879</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>28838</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">5.0160445220108</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46940886046042</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">5.08217113522327</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">10000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>HIG.TA</TICKER>
+        <MID-SPREAD type="float">154.663566155038</MID-SPREAD>
+        <ASK-SPREAD type="float">148.051194100202</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301500509000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10020000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">102.312</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">103.951662813804</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301500509000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">20436</SEQ-NUM>
+        <TRADE-YIELD type="float">5.174987</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">103.466654854983</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">179.245887902802</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">102.984363968334</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">4.94992080146244</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>416515AZ7</CUSIP>
+        <AS-OF type="integer">1301500463000</AS-OF>
+        <BID-SPREAD type="float">161.276227476286</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>2905</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">0.461047464408434</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.399847915290374</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">0.504176810374238</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>EDSF</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>SO.LM</TICKER>
+        <MID-SPREAD type="float">6.11995491180595</MID-SPREAD>
+        <ASK-SPREAD type="float">1.80886492827291</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301490976000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10000002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">100.233</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">100.092171241223</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301490976000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">7471</SEQ-NUM>
+        <TRADE-YIELD type="float">0.0</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">100.068689623721</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">78.5140981457266</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">100.045213521261</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>EDSF</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">0.417936564573104</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>842587CF2</CUSIP>
+        <AS-OF type="integer">1301490593000</AS-OF>
+        <BID-SPREAD type="float">10.4328895083864</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>4251</id>
+      <values>
+        <TRADE-SALES-DAYS-C type="integer">0</TRADE-SALES-DAYS-C>
+        <SUMMARY-HIGH-YIELD type="float">0.0</SUMMARY-HIGH-YIELD>
+        <ORIGINAL-SEQ-NUM type="integer">7055</ORIGINAL-SEQ-NUM>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">0.328654446600079</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.764891796918801</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">0.405079152503749</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <WITH-COMMISSION-C type="integer">0</WITH-COMMISSION-C>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-SIZE-C type="float">5000001.0</TRADE-SIZE-C>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">2</TRADE-CHNG-INDICATOR>
+        <TRADE-SPECIAL-PRICE-C type="integer">0</TRADE-SPECIAL-PRICE-C>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <IS-ACTUAL-SIZE-C type="integer">0</IS-ACTUAL-SIZE-C>
+        <TICKER>C.CW</TICKER>
+        <MID-SPREAD type="float">-43.6237350318722</MID-SPREAD>
+        <ASK-SPREAD type="float">-51.2604045177343</ASK-SPREAD>
+        <TRADE-YIELD-C type="float">0.0</TRADE-YIELD-C>
+        <TRADE-INDICATOR-C type="integer">2</TRADE-INDICATOR-C>
+        <TRADE-CANCEL-TYPE type="integer">2</TRADE-CANCEL-TYPE>
+        <RECEIVED-TIME type="integer">1301494333000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10000002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">100.4361</TRADE-PRICE>
+        <SUMMARY-LAST-PRICE type="float">100.441</SUMMARY-LAST-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">100.112126015094</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1-C type="integer">3</TRADE-SALE-CONDITION-1-C>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <SUMMARY-LOW-PRICE type="float">100.4361</SUMMARY-LOW-PRICE>
+        <SUMMARY-HIGH-PRICE type="float">100.441</SUMMARY-HIGH-PRICE>
+        <REPORTING-PARTY-SIDE-C type="integer">3</REPORTING-PARTY-SIDE-C>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2-C type="integer">7</TRADE-SALE-CONDITION-2-C>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301494333000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">10699</SEQ-NUM>
+        <TRADE-YIELD type="float">0.0</TRADE-YIELD>
+        <TRADE-PRICE-C type="float">10043.61</TRADE-PRICE-C>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <SUMMARY-LOW-YIELD type="float">0.0</SUMMARY-LOW-YIELD>
+        <SUMMARY-LAST-YIELD type="float">0.0</SUMMARY-LAST-YIELD>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">100.029977035145</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">12.1473341812992</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">99.9478955772205</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">0.252287751741458</ASK-YIELD>
+        <TICK-TYPE>TRD_CXN</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>17314AAB8</CUSIP>
+        <AS-OF-C type="integer">1301490000000</AS-OF-C>
+        <AS-OF type="integer">1301490000000</AS-OF>
+        <BID-SPREAD type="float">-35.9812644415052</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>16986</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">0.461289919376545</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.76901445002988</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">0.509708019165826</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>2_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">5000001.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>GE.HBA</TICKER>
+        <MID-SPREAD type="float">-30.7724530653335</MID-SPREAD>
+        <ASK-SPREAD type="float">-35.6119490512197</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301491002000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">10000002.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">99.7658</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">99.5102192149817</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">0</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301491002000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">7483</SEQ-NUM>
+        <TRADE-YIELD type="float">0.0</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">99.4343578157041</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">50.089731541402</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">99.3585545461413</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QK9</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">0.412894959517683</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>36962GZ49</CUSIP>
+        <AS-OF type="integer">1301490986000</AS-OF>
+        <BID-SPREAD type="float">-25.9306430864054</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>16779</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">0.351882805551939</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">0.389054372128284</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">0.43742109968018</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>EDSF</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">400000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">5</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">3</REPORTING-PARTY-SIDE>
+        <TICKER>C.HEY</TICKER>
+        <MID-SPREAD type="float">-3.71715665763446</MID-SPREAD>
+        <ASK-SPREAD type="float">-12.2674392571346</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301502028000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">9825001.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">102.201044</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">102.34654612768</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502028000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">22973</SEQ-NUM>
+        <TRADE-YIELD type="float">0.559429</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">102.30405018845</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">5.26862236438855</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">102.261571894027</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>EDSF</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">0.266379979556937</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>172967DU2</CUSIP>
+        <AS-OF type="integer">1301502000000</AS-OF>
+        <BID-SPREAD type="float">4.83667275518965</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>16690</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">4.19907598978876</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">2.19307456402857</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">4.23315908311801</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>5_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">25000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>APC.HE</TICKER>
+        <MID-SPREAD type="float">200.600142576018</MID-SPREAD>
+        <ASK-SPREAD type="float">197.192520221029</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301500838000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">9709000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">108.715</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">108.616618717223</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301500838000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">20991</SEQ-NUM>
+        <TRADE-YIELD type="float">4.145614</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">108.443944443636</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">139.942713357019</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">108.271562006694</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828QJ2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">4.16499976623886</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>032511AX5</CUSIP>
+        <AS-OF type="integer">1301500823000</AS-OF>
+        <BID-SPREAD type="float">204.008451908944</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>6825</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">6.16432580440099</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.46287444705263</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.19230267790947</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">1380000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">1</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">2</REPORTING-PARTY-SIDE>
+        <TICKER>T.KL</TICKER>
+        <MID-SPREAD type="float">270.145135734835</MID-SPREAD>
+        <ASK-SPREAD type="float">267.341267145342</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301502262000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">9236000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">104.496</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">105.480888797359</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301502262000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">23349</SEQ-NUM>
+        <TRADE-YIELD type="float">6.208016</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">105.094210909982</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">153.905944909425</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">104.710548207519</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">6.13628711850606</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>00206RAS1</CUSIP>
+        <AS-OF type="integer">1301502255000</AS-OF>
+        <BID-SPREAD type="float">272.942823085684</BID-SPREAD>
+      </values>
+    </message>
+    <message>
+      <id>194670</id>
+      <values>
+        <IS-WHEN-ISSUE type="integer">0</IS-WHEN-ISSUE>
+        <MID-YIELD type="float">6.0853539585975</MID-YIELD>
+        <BMRK-BENCHMARK-SECURITY-YIELD type="float">3.45914234248302</BMRK-BENCHMARK-SECURITY-YIELD>
+        <BID-YIELD type="float">6.12835512728814</BID-YIELD>
+        <BENCHMARK-TREASURY-BMRK-DESC>10_YEAR</BENCHMARK-TREASURY-BMRK-DESC>
+        <TRADE-SIZE type="float">1000000.0</TRADE-SIZE>
+        <TRADE-INDICATOR type="integer">2</TRADE-INDICATOR>
+        <TRADE-CHNG-INDICATOR type="integer">0</TRADE-CHNG-INDICATOR>
+        <REPORTING-PARTY-SIDE type="integer">4</REPORTING-PARTY-SIDE>
+        <TICKER>EPD.HD</TICKER>
+        <MID-SPREAD type="float">262.621161611449</MID-SPREAD>
+        <ASK-SPREAD type="float">258.310745862905</ASK-SPREAD>
+        <RECEIVED-TIME type="integer">1301498686000</RECEIVED-TIME>
+        <sum-TRADE-SIZE type="float">8950000.0</sum-TRADE-SIZE>
+        <TRADE-PRICE type="float">103.931</TRADE-PRICE>
+        <RETRANSMIT type="integer">0</RETRANSMIT>
+        <ASK-PRICE type="float">105.569190102534</ASK-PRICE>
+        <WITH-COMMISSION type="integer">0</WITH-COMMISSION>
+        <TRADE-SALE-CONDITION-1 type="integer">1</TRADE-SALE-CONDITION-1>
+        <TRADE-SALES-DAYS type="integer">0</TRADE-SALES-DAYS>
+        <IS-ACTUAL-SIZE type="integer">1</IS-ACTUAL-SIZE>
+        <OMDSEQ type="integer">0</OMDSEQ>
+        <TRADE-SALE-CONDITION-2 type="integer">0</TRADE-SALE-CONDITION-2>
+        <SERVER-TIMESTAMP type="integer">1301498686000</SERVER-TIMESTAMP>
+        <SEQ-NUM type="integer">17302</SEQ-NUM>
+        <TRADE-YIELD type="float">6.158486</TRADE-YIELD>
+        <TICK-STATUS type="integer">0</TICK-STATUS>
+        <PRICING-SOURCE type="integer">1000</PRICING-SOURCE>
+        <MID-PRICE type="float">104.957053132912</MID-PRICE>
+        <MATURITY-MATCHED-CDS-MID-RUNNING type="float">150.070600420156</MATURITY-MATCHED-CDS-MID-RUNNING>
+        <BID-PRICE type="float">104.351843578498</BID-PRICE>
+        <BENCHMARK-TREASURY-BMRK-CUSIP>912828PX2</BENCHMARK-TREASURY-BMRK-CUSIP>
+        <ASK-YIELD type="float">6.04224980111207</ASK-YIELD>
+        <TICK-TYPE>TRD</TICK-TYPE>
+        <TRADE-SPECIAL-PRICE type="integer">0</TRADE-SPECIAL-PRICE>
+        <DELETED-TIME type="integer">0</DELETED-TIME>
+        <CUSIP>29379VAQ6</CUSIP>
+        <AS-OF type="integer">1301498685000</AS-OF>
+        <BID-SPREAD type="float">266.921278480512</BID-SPREAD>
+      </values>
+    </message>
+  </messages>
+  <product>TRACE_FINRA,BOND_QUOTES</product>
+</hash>
