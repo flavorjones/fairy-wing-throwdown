@@ -2,7 +2,11 @@
 
 or
 
-## JSON v XML: How much slower, exactly, is XML in the real world?
+## JSON v XML
+
+or
+
+## How much slower, exactly, is XML in the real world?
 
 ### TL;DR
 
