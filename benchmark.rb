@@ -14,7 +14,9 @@ canonical_ruby = FairyWingThrowdown.canonical_ruby
 
 puts "benchmarking ..."
 xml = Flavorjones.xml_string
-n = 1_000
+n = 100
+
+# 100.times { Flavorjones::XML.new(xml).transform_via_sax }
 
 Benchmark.bmbm(20) do |benchmark|
   benchmark.report("json") do
@@ -25,5 +27,8 @@ Benchmark.bmbm(20) do |benchmark|
   # end
   benchmark.report("xml (noko-dom)") do
     n.times { Flavorjones::XML.new(xml).transform_via_dom }
+  end
+  benchmark.report("xml (noko-sax)") do
+    n.times { Flavorjones::XML.new(xml).transform_via_sax }
   end
 end

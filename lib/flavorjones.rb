@@ -70,24 +70,30 @@ module Flavorjones
       @message_attr_name = nil
     end
 
-    def start_element name, attributes = []
-      if name == "product"
-        @where_am_i = :product
-      elsif name == "message"
-        @hash["messages"] << {"values" => {}}
-        @where_am_i = :message
-      elsif name == "id"
-        @where_am_i = :message_id
-      elsif name == "values"
-        @where_am_i = :message_values
-      elsif @where_am_i == :message_values
+    def start_element_namespace name, attributes = [], *args
+      if @where_am_i == :message_values
         @message_attr_name = name
-        @message_attr_type = attributes.first && attributes.first.last
+        @message_attr_type = attributes.first && attributes.first.value
+      else
+        case name
+        when "product"
+          @where_am_i = :product
+        when "message"
+          @hash["messages"] << {"values" => {}}
+          @where_am_i = :message
+        when "id"
+          @where_am_i = :message_id
+        when "values"
+          @where_am_i = :message_values
+        else
+        end
       end
     end
 
-    def end_element name
-      if name == "product" || name == "message"
+    def end_element_namespace name, *args
+      if name == "values"
+        @where_am_i = "message"
+      elsif name == "product" || name == "message"
         @where_am_i = nil
       end
     end
@@ -95,12 +101,12 @@ module Flavorjones
     def characters string
       return if string.blank?
       case @where_am_i
-      when :product
-        @hash["product"] = string
-      when :message_id
-        @hash["messages"].last["id"] = string
       when :message_values
         @hash["messages"].last["values"][@message_attr_name] = Flavorjones.format_value string, @message_attr_type
+      when :message_id
+        @hash["messages"].last["id"] = string
+      when :product
+        @hash["product"] = string
       end
     end
   end
