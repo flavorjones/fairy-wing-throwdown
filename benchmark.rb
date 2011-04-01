@@ -14,9 +14,7 @@ canonical_ruby = FairyWingThrowdown.canonical_ruby
 
 puts "benchmarking ..."
 xml = Flavorjones.xml_string
-n = 100
-
-# 100.times { Flavorjones::XML.new(xml).transform_via_sax }
+n = 1_000
 
 Benchmark.bmbm(20) do |benchmark|
   benchmark.report("json") do
