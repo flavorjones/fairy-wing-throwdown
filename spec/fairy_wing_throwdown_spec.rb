@@ -21,13 +21,19 @@ describe Flavorjones::XML do
 
   describe ".transform_via_active_support" do
     it "matches the objective ruby data structure" do
-      FairyWingThrowdown.canonical_ruby.should == Flavorjones::XML.new(@xml).transform_via_active_support
+      Flavorjones::XML.new(@xml).transform_via_active_support.should == FairyWingThrowdown.canonical_ruby
     end
   end
 
   describe ".transform_via_dom" do
     it "matches the objective ruby data structure" do
-      FairyWingThrowdown.canonical_ruby.should == Flavorjones::XML.new(@xml).transform_via_dom
+      Flavorjones::XML.new(@xml).transform_via_dom.should == FairyWingThrowdown.canonical_ruby
+    end
+  end
+
+  describe ".transform_via_sax" do
+    it "matches the objective ruby data structure" do
+      Flavorjones::XML.new(@xml).transform_via_sax.should == FairyWingThrowdown.canonical_ruby
     end
   end
 end
