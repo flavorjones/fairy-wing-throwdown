@@ -1,10 +1,6 @@
 #! /usr/bin/env ruby
 
-require 'rubygems'
-require 'json/ext'
-require 'nokogiri'
 require 'benchmark'
-require 'pp'
 
 require "lib/fairy_wing_throwdown"
 require 'lib/flavorjones'
