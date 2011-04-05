@@ -2,8 +2,9 @@
 
 require 'benchmark'
 
-require "lib/fairy_wing_throwdown"
-require 'lib/flavorjones'
+$: << File.expand_path("./lib")
+require "fairy_wing_throwdown"
+require 'flavorjones'
 
 json           = FairyWingThrowdown.json_string
 canonical_ruby = FairyWingThrowdown.canonical_ruby
