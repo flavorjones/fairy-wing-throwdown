@@ -6,6 +6,11 @@ $: << File.expand_path("./lib")
 require "fairy_wing_throwdown"
 require 'flavorjones'
 
+puts
+puts "---------- #{RUBY_DESCRIPTION} ----------"
+puts Nokogiri::VERSION_INFO.to_yaml.gsub(/^/,'         | ')
+puts
+
 json           = FairyWingThrowdown.json_string
 canonical_ruby = FairyWingThrowdown.canonical_ruby
 
