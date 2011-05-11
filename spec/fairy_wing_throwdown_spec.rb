@@ -36,4 +36,10 @@ describe Flavorjones::XML do
       Flavorjones::XML.new(@xml).transform_via_sax.should == FairyWingThrowdown.canonical_ruby
     end
   end
+
+  describe ".transform_via_reader" do
+    it "matches the objective ruby data structure" do
+      Flavorjones::XML.new(@xml).transform_via_reader.should == FairyWingThrowdown.canonical_ruby
+    end
+  end
 end

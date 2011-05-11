@@ -53,6 +53,61 @@ module Flavorjones
       sax_doc.hash
     end
 
+    def transform_via_reader
+      reader = Nokogiri::XML::Reader @xml
+
+      # reimplement sax parser here. *headdesk*
+      hash = {"messages" => []}
+      where_am_i = nil
+      message_attr_name = nil
+      message_attr_type = nil
+
+      reader.each do |node|
+        case node.node_type
+        when Nokogiri::XML::Reader::TYPE_ELEMENT
+          if where_am_i == :message_values
+            attribute = node.attributes.first
+            message_attr_name = node.name.dup # see https://github.com/tenderlove/nokogiri/issues/439
+            message_attr_type = attribute && attribute.last
+          else
+            case node.name
+            when "product"
+              where_am_i = :product
+            when "message"
+              hash["messages"] << {"values" => {}}
+              where_am_i = :message
+            when "id"
+              where_am_i = :message_id
+            when "values"
+              where_am_i = :message_values
+            else
+            end
+          end
+
+        when Nokogiri::XML::Reader::TYPE_END_ELEMENT
+          if node.name == "values"
+            where_am_i = "message"
+          elsif node.name == "product" || node.name == "message"
+            where_am_i = nil
+          end
+
+        when Nokogiri::XML::Reader::TYPE_TEXT
+          string = node.value
+          next if string.blank?
+          case where_am_i
+          when :message_values
+            hash["messages"].last["values"][message_attr_name] = Flavorjones.format_value string, message_attr_type
+          when :message_id
+            hash["messages"].last["id"] = string
+          when :product
+            hash["product"] = string
+          end
+
+        end
+      end
+      hash
+    end
+
     private
 
     def traverse node, &block

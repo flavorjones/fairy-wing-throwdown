@@ -34,5 +34,8 @@ else
     benchmark.report("xml (noko-sax)") do
       n.times { Flavorjones::XML.new(xml).transform_via_sax }
     end
+    benchmark.report("xml (noko-reader)") do
+      n.times { Flavorjones::XML.new(xml).transform_via_reader }
+    end
   end
 end
