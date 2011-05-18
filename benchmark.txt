@@ -1,11 +1,166 @@
-benchmarking ...
-Rehearsal -------------------------------------------------------
-json                  3.250000   0.000000   3.250000 (  3.258860)
-xml (noko-dom)       21.520000   0.030000  21.550000 ( 21.685798)
-xml (noko-sax)       33.430000   0.030000  33.460000 ( 33.683206)
---------------------------------------------- total: 58.260000sec
+
+# ---------- ruby 1.8.7 (2011-02-18 patchlevel 334) [x86_64-linux] ----------
+# --- 
+# warnings: []
+# 
+# ruby: 
+#   engine: mri
+#   version: 1.8.7
+#   platform: x86_64-linux
+# libxml: 
+#   loaded: 2.7.8
+#   binding: extension
+#   compiled: 2.7.8
+# nokogiri: 1.4.4
 
                           user     system      total        real
-json                  3.260000   0.030000   3.290000 (  3.320897)
-xml (noko-dom)       21.080000   0.040000  21.120000 ( 21.412431)
-xml (noko-sax)       31.550000   0.010000  31.560000 ( 32.462492)
+json                  4.660000   0.000000   4.660000 (  4.669743)
+xml (activesupport) 957.970000   0.840000 958.810000 (968.033075)
+xml (noko-dom)       24.170000   0.000000  24.170000 ( 24.235939)
+xml (noko-sax)       32.800000   0.000000  32.800000 ( 32.900622)
+xml (noko-reader)    78.280000   0.010000  78.290000 ( 78.561482)
+
+# ---------- ruby 1.8.7 (2011-02-18 patchlevel 334) [x86_64-linux], MBARI 0x6770, Ruby Enterprise Edition 2011.03 ----------
+# --- 
+# warnings: []
+# 
+# ruby: 
+#   engine: ruby
+#   version: 1.8.7
+#   platform: x86_64-linux
+# libxml: 
+#   loaded: 2.7.8
+#   binding: extension
+#   compiled: 2.7.8
+# nokogiri: 1.4.4
+
+                          user     system      total        real
+json                  3.060000   0.000000   3.060000 (  3.077197)
+xml (noko-dom)       20.520000   0.020000  20.540000 ( 21.013871)
+xml (noko-sax)       30.840000   0.020000  30.860000 ( 31.838478)
+xml (noko-reader)    73.380000   0.130000  73.510000 ( 74.746752)
+
+# ---------- ruby 1.9.2p180 (2011-02-18 revision 30909) [x86_64-linux] ----------
+# --- 
+# warnings: []
+# 
+# nokogiri: 1.4.4
+# ruby: 
+#   version: 1.9.2
+#   platform: x86_64-linux
+#   engine: ruby
+# libxml: 
+#   binding: extension
+#   compiled: 2.7.8
+#   loaded: 2.7.8
+
+                          user     system      total        real
+json                  4.080000   0.020000   4.100000 (  4.111997)
+xml (noko-dom)       17.060000   0.060000  17.120000 ( 17.126923)
+xml (noko-sax)       33.730000   0.060000  33.790000 ( 33.780034)
+xml (noko-reader)    56.910000   0.100000  57.010000 ( 56.999951)
+
+# ---------- ruby 1.9.3dev (2011-04-06 trunk 31245) [x86_64-linux] ----------
+# --- 
+# warnings: []
+# 
+# nokogiri: 1.4.4
+# ruby: 
+#   version: 1.9.3
+#   platform: x86_64-linux
+#   engine: ruby
+# libxml: 
+#   binding: extension
+#   compiled: 2.7.8
+#   loaded: 2.7.8
+
+                          user     system      total        real
+json                  3.880000   0.040000   3.920000 (  3.919585)
+xml (noko-dom)       16.570000   0.010000  16.580000 ( 16.593974)
+xml (noko-sax)       29.690000   0.060000  29.750000 ( 29.866324)
+xml (noko-reader)    53.210000   0.040000  53.250000 ( 53.578475)
+
+# ---------- jruby 1.5.6 (ruby 1.8.7 patchlevel 249) (2010-12-03 9cf97c3) (OpenJDK 64-Bit Server VM 1.6.0_22) [amd64-java] ----------
+# --- 
+# warnings: []
+# 
+# nokogiri: 1.4.4
+# ruby: 
+#   version: 1.8.7
+#   platform: java
+#   engine: jruby
+#   jruby: 1.5.6
+# libxml: 
+#   loaded: 2.7.8
+#   binding: ffi
+#   platform: jruby
+# refs: weakling
+
+Rehearsal -------------------------------------------------------
+json                  4.880000   0.000000   4.880000 (  4.880000)
+xml (noko-dom)      139.641000   0.000000 139.641000 (139.641000)
+xml (noko-sax)      336.299000   0.000000 336.299000 (336.299000)
+xml (noko-reader)   177.279000   0.000000 177.279000 (177.279000)
+-------------------------------------------- total: 658.099000sec
+
+                          user     system      total        real
+json                  4.395000   0.000000   4.395000 (  4.395000)
+xml (noko-dom)      137.137000   0.000000 137.137000 (137.137000)
+xml (noko-sax)      338.385000   0.000000 338.385000 (338.385000)
+xml (noko-reader)   177.107000   0.000000 177.107000 (177.107000)
+
+# ---------- jruby 1.6.0 (ruby 1.8.7 patchlevel 330) (2011-03-15 f3b6154) (OpenJDK 64-Bit Server VM 1.6.0_22) [linux-amd64-java] ----------
+# --- 
+# warnings: []
+# 
+# nokogiri: 1.4.4
+# ruby: 
+#   version: 1.8.7
+#   platform: java
+#   engine: jruby
+#   jruby: 1.6.0
+# libxml: 
+#   loaded: 2.7.8
+#   binding: ffi
+#   platform: jruby
+# refs: weakling
+
+Rehearsal -------------------------------------------------------
+json                  5.146000   0.000000   5.146000 (  5.146000)
+xml (noko-dom)      117.494000   0.000000 117.494000 (117.494000)
+xml (noko-sax)      333.080000   0.000000 333.080000 (333.080000)
+xml (noko-reader)   159.624000   0.000000 159.624000 (159.624000)
+-------------------------------------------- total: 615.344000sec
+
+                          user     system      total        real
+json                  4.763000   0.000000   4.763000 (  4.763000)
+xml (noko-dom)      113.657000   0.000000 113.657000 (113.657000)
+xml (noko-sax)      336.138000   0.000000 336.138000 (336.138000)
+xml (noko-reader)   157.076000   0.000000 157.076000 (157.076000)
+
+# ---------- rubinius 1.2.4dev (1.8.7 c2992f9f yyyy-mm-dd JI) [x86_64-unknown-linux-gnu] ----------
+# --- 
+# warnings: []
+# 
+# nokogiri: 1.4.4
+# libxml: 
+#   loaded: 2.7.8
+#   binding: extension
+#   compiled: 2.7.8
+# ruby: 
+#   platform: x86_64-unknown-linux-gnu
+#   version: 1.8.7
+#   engine: rbx
+
+Rehearsal -------------------------------------------------------
+json                 14.080000   0.130000  14.210000 ( 14.264173)
+xml (noko-dom)       56.510000   0.050000  56.560000 ( 56.963124)
+xml (noko-sax)      104.160000   0.100000 104.260000 (104.627480)
+xml (noko-reader)   143.050000   0.220000 143.270000 (143.707396)
+-------------------------------------------- total: 318.300000sec
+
+                          user     system      total        real
+json                 13.480000   0.200000  13.680000 ( 13.702979)
+xml (noko-dom)       56.140000   0.090000  56.230000 ( 56.349279)
+xml (noko-sax)      105.170000   0.160000 105.330000 (105.539719)
+xml (noko-reader)   143.370000   0.200000 143.570000 (143.761971)
