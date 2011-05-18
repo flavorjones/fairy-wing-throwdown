@@ -1,0 +1,373 @@
+--- 
+:saikuro: 
+  :classes: 
+  - :defs: 
+    - :lines: 2
+      :name: Flavorjones::XML#initialize
+      :complexity: 1
+    - :lines: 2
+      :name: Flavorjones::XML#transform_via_active_support
+      :complexity: 1
+    - :lines: 18
+      :name: Flavorjones::XML#transform_via_dom
+      :complexity: 6
+    - :lines: 5
+      :name: Flavorjones::XML#transform_via_sax
+      :complexity: 1
+    - :lines: 53
+      :name: Flavorjones::XML#transform_via_reader
+      :complexity: 16
+    - :lines: 3
+      :name: Flavorjones::XML#traverse
+      :complexity: 2
+    :lines: 97
+    :name: Flavorjones::XML
+    :complexity: 27
+  - :defs: 
+    - :lines: 4
+      :name: Flavorjones::SaxDocument#initialize
+      :complexity: 1
+    - :lines: 18
+      :name: Flavorjones::SaxDocument#start_element_namespace
+      :complexity: 6
+    - :lines: 6
+      :name: Flavorjones::SaxDocument#end_element_namespace
+      :complexity: 3
+    - :lines: 10
+      :name: Flavorjones::SaxDocument#characters
+      :complexity: 5
+    :lines: 48
+    :name: Flavorjones::SaxDocument
+    :complexity: 15
+  - :defs: 
+    - :lines: 3
+      :name: Flavorjones::#xml_string
+      :complexity: 1
+    - :lines: 6
+      :name: Flavorjones::#format_value
+      :complexity: 3
+    :lines: 13
+    :name: "Flavorjones::"
+    :complexity: 4
+  - :defs: 
+    - :lines: 2
+      :name: FairyWingThrowdown::#json_string
+      :complexity: 1
+    - :lines: 2
+      :name: FairyWingThrowdown::#canonical_ruby
+      :complexity: 1
+    :lines: 8
+    :name: "FairyWingThrowdown::"
+    :complexity: 2
+  - :lines: 4
+    :name: FairyWingThrowdown
+    :complexity: 0
+  - :lines: 6
+    :name: Flavorjones
+    :complexity: 0
+  :methods: 
+  - :lines: 53
+    :name: Flavorjones::XML#transform_via_reader
+    :complexity: 16
+  - :lines: 18
+    :name: Flavorjones::XML#transform_via_dom
+    :complexity: 6
+  - :lines: 18
+    :name: Flavorjones::SaxDocument#start_element_namespace
+    :complexity: 6
+  - :lines: 10
+    :name: Flavorjones::SaxDocument#characters
+    :complexity: 5
+  - :lines: 6
+    :name: Flavorjones::SaxDocument#end_element_namespace
+    :complexity: 3
+  - :lines: 6
+    :name: Flavorjones::#format_value
+    :complexity: 3
+  - :lines: 3
+    :name: Flavorjones::XML#traverse
+    :complexity: 2
+  - :lines: 2
+    :name: FairyWingThrowdown::#canonical_ruby
+    :complexity: 1
+  - :lines: 5
+    :name: Flavorjones::XML#transform_via_sax
+    :complexity: 1
+  - :lines: 4
+    :name: Flavorjones::SaxDocument#initialize
+    :complexity: 1
+  - :lines: 2
+    :name: Flavorjones::XML#transform_via_active_support
+    :complexity: 1
+  - :lines: 2
+    :name: Flavorjones::XML#initialize
+    :complexity: 1
+  - :lines: 2
+    :name: FairyWingThrowdown::#json_string
+    :complexity: 1
+  - :lines: 3
+    :name: Flavorjones::#xml_string
+    :complexity: 1
+  :files: 
+  - :classes: 
+    - :methods: []
+
+      :lines: 6
+      :complexity: 0
+      :class_name: Flavorjones
+    - :methods: 
+      - :lines: 6
+        :name: Flavorjones::#format_value
+        :complexity: 3
+      - :lines: 3
+        :name: Flavorjones::#xml_string
+        :complexity: 1
+      :lines: 13
+      :complexity: 4
+      :class_name: "Flavorjones::"
+    - :methods: 
+      - :lines: 53
+        :name: Flavorjones::XML#transform_via_reader
+        :complexity: 16
+      - :lines: 18
+        :name: Flavorjones::XML#transform_via_dom
+        :complexity: 6
+      - :lines: 3
+        :name: Flavorjones::XML#traverse
+        :complexity: 2
+      - :lines: 5
+        :name: Flavorjones::XML#transform_via_sax
+        :complexity: 1
+      - :lines: 2
+        :name: Flavorjones::XML#transform_via_active_support
+        :complexity: 1
+      - :lines: 2
+        :name: Flavorjones::XML#initialize
+        :complexity: 1
+      :lines: 97
+      :complexity: 27
+      :class_name: Flavorjones::XML
+    - :methods: 
+      - :lines: 18
+        :name: Flavorjones::SaxDocument#start_element_namespace
+        :complexity: 6
+      - :lines: 10
+        :name: Flavorjones::SaxDocument#characters
+        :complexity: 5
+      - :lines: 6
+        :name: Flavorjones::SaxDocument#end_element_namespace
+        :complexity: 3
+      - :lines: 4
+        :name: Flavorjones::SaxDocument#initialize
+        :complexity: 1
+      :lines: 48
+      :complexity: 15
+      :class_name: Flavorjones::SaxDocument
+    :filename: lib/flavorjones.rb
+  - :classes: 
+    - :methods: []
+
+      :lines: 4
+      :complexity: 0
+      :class_name: FairyWingThrowdown
+    - :methods: 
+      - :lines: 2
+        :name: FairyWingThrowdown::#canonical_ruby
+        :complexity: 1
+      - :lines: 2
+        :name: FairyWingThrowdown::#json_string
+        :complexity: 1
+      :lines: 8
+      :complexity: 2
+      :class_name: "FairyWingThrowdown::"
+    :filename: lib/fairy_wing_throwdown.rb
+:flog: 
+  :average: 11.7496644551326
+  :method_containers: 
+  - :methods: 
+      Flavorjones::XML#transform_via_active_support: 
+        :path: lib/flavorjones.rb:25
+        :score: 3.0
+        :operators: 
+          :from_xml: 1.6
+          :[]: 1.4
+      Flavorjones::XML#transform_via_sax: 
+        :path: lib/flavorjones.rb:49
+        :score: 6.26099033699941
+        :operators: 
+          :parse: 1.4
+          :assignment: 2.8
+          :hash: 1.4
+          :new: 2.8
+      Flavorjones::XML#transform_via_reader: 
+        :path: lib/flavorjones.rb:56
+        :score: 70.0611875434609
+        :operators: 
+          :format_value: 2.0
+          :value: 1.8
+          :attributes: 2.1
+          :<<: 2.1
+          :each: 1.4
+          :dup: 1.9
+          :node_type: 1.5
+          :assignment: 33.8
+          :blank?: 1.8
+          :last: 6.2
+          :first: 1.9
+          :name: 10.0
+          :branch: 35.3
+          :[]: 8.90000000000001
+          :==: 7.2
+          :Reader: 1.4
+      Flavorjones::XML#traverse: 
+        :path: lib/flavorjones.rb:113
+        :score: 7.87210264160726
+        :operators: 
+          :call: 1.4
+          :block_pass: 1.7
+          :each: 1.4
+          :traverse: 1.5
+          :assignment: 1.5
+          :branch: 1.4
+          :children: 1.6
+      Flavorjones::XML#transform_via_dom: 
+        :path: lib/flavorjones.rb:29
+        :score: 52.6363942534061
+        :operators: 
+          :xpath: 3.2
+          :format_value: 2.0
+          :length: 2.0
+          :text: 5.4
+          :parse: 1.4
+          :assignment: 24.7
+          :first: 2.0
+          :name: 5.6
+          :map: 1.4
+          :branch: 9.5
+          :[]: 2.2
+          :text?: 1.8
+          :==: 1.8
+          :children: 8.1
+          :noblanks: 1.5
+          :lit_fixnum: 0.5
+          :inject: 6.6
+      Flavorjones::XML#none: 
+        :path: 
+        :score: 1.3
+        :operators: 
+          :private: 1.3
+      Flavorjones::XML#initialize: 
+        :path: lib/flavorjones.rb:21
+        :score: 1.4
+        :operators: 
+          :assignment: 1.4
+    :total_score: 142.530674775474
+    :average_score: 20.3615249679248
+    :highest_score: 70.0611875434609
+    :name: Flavorjones::XML
+    :path: lib/flavorjones.rb
+  - :methods: 
+      Flavorjones::SaxDocument#characters: 
+        :path: lib/flavorjones.rb:156
+        :score: 14.6823022717829
+        :operators: 
+          :format_value: 1.6
+          :assignment: 4.8
+          :last: 3.4
+          :blank?: 1.4
+          :branch: 7.3
+          :[]: 5.4
+      Flavorjones::SaxDocument#initialize: 
+        :path: lib/flavorjones.rb:122
+        :score: 4.2
+        :operators: 
+          :assignment: 4.2
+      Flavorjones::SaxDocument#end_element_namespace: 
+        :path: lib/flavorjones.rb:148
+        :score: 7.08025423272357
+        :operators: 
+          :assignment: 3.1
+          :branch: 4.4
+          :==: 4.6
+      Flavorjones::SaxDocument#none: 
+        :path: 
+        :score: 1.3
+        :operators: 
+          :attr_accessor: 1.3
+      Flavorjones::SaxDocument#start_element_namespace: 
+        :path: lib/flavorjones.rb:128
+        :score: 19.0081561441398
+        :operators: 
+          :value: 1.7
+          :<<: 1.8
+          :assignment: 11.5
+          :first: 3.6
+          :branch: 10.9
+          :[]: 2.0
+          :==: 1.4
+    :total_score: 46.2707126486463
+    :average_score: 9.25414252972925
+    :highest_score: 19.0081561441398
+    :name: Flavorjones::SaxDocument
+    :path: lib/flavorjones.rb
+  - :methods: 
+      FairyWingThrowdown#json_string: 
+        :path: lib/fairy_wing_throwdown.rb:5
+        :score: 1.8
+        :operators: 
+          :read: 1.8
+      FairyWingThrowdown#canonical_ruby: 
+        :path: lib/fairy_wing_throwdown.rb:9
+        :score: 3.8
+        :operators: 
+          :json_string: 2.0
+          :parse: 1.8
+      FairyWingThrowdown#none: 
+        :path: 
+        :score: 9.4
+        :operators: 
+          :+: 1.3
+          :expand_path: 1.1
+          :sclass: 5.5
+          :dirname: 1.5
+    :total_score: 15.0
+    :average_score: 5.0
+    :highest_score: 9.4
+    :name: FairyWingThrowdown
+    :path: lib/fairy_wing_throwdown.rb
+  - :methods: 
+      Flavorjones#xml_string: 
+        :path: lib/flavorjones.rb:6
+        :score: 4.0
+        :operators: 
+          :to_xml: 1.9
+          :canonical_ruby: 2.1
+      Flavorjones#none: 
+        :path: 
+        :score: 6.0
+        :operators: 
+          :sclass: 6.0
+      Flavorjones#format_value: 
+        :path: lib/flavorjones.rb:11
+        :score: 7.24223722339996
+        :operators: 
+          :to_i: 2.1
+          :branch: 5.9
+          :Float: 2.1
+    :total_score: 17.2422372234
+    :average_score: 5.74741240779999
+    :highest_score: 7.24223722339996
+    :name: Flavorjones
+    :path: lib/flavorjones.rb
+  - :methods: 
+      main#none: 
+        :path: 
+        :score: 2.2
+        :operators: 
+          :require: 2.2
+    :total_score: 2.2
+    :average_score: 2.2
+    :highest_score: 2.2
+    :name: main
+    :path: ""
+  :total: 223.24362464752
